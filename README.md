@@ -10,7 +10,7 @@
 <div>
 
 <h1 align = center> ✈️ Pilot-Seat </h1>
-<h3> Learn deeply. Document clearly. Build confidently.</h3>
+<h3 align = center> Learn deeply. Document clearly. Build confidently.</h3>
 
 </div>
 

@@ -7,7 +7,7 @@
 
 > You don't need to write long prompts every time. Use one of these patterns.
 
-<div align=right>
+<div align=center>
 
 # Pattern 1: New Topic (Recommended)
 
@@ -71,7 +71,7 @@ This will include:
 
 </div>
 
-<div align=right>
+<div align=center>
 
 # Pattern 3: Architecture Focus
 
@@ -122,7 +122,7 @@ This will include:
 * Best practices
 </div>
 
-<div align = right>
+<div align = center>
 
 # Pattern 5: Compare Technologies
 
@@ -177,7 +177,7 @@ Output:
 * Best practices
 </div>
 
-<div align = right>
+<div align = center>
 
 # Pattern 7: Explain a Diagram
 
@@ -226,7 +226,7 @@ I will:
 
 </div>
 
-<div align = right>
+<div align = center>
 
 # Pattern 9: Learning Roadmap
 
@@ -286,7 +286,7 @@ Output:
 
 </div>
 
-<div align = right>
+<div align = center>
 
 # Special Commands
 
