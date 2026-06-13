@@ -1,7 +1,7 @@
 <div>
 <h1 align=center>Question-Pattern</h1>
-<p align= center>Follow this Question Patterns - special for all Pilots.
-The quality of the output will depend heavily on **how you ask the topic.</p>
+<p align= center>Follow this Question Patterns - special for all Pilots. <br>
+The quality of the output will depend heavily on how you ask the topic.</p>
 
 </div>
 
@@ -11,6 +11,7 @@ The quality of the output will depend heavily on **how you ask the topic.</p>
 <div align=center>
 
 # Pattern 1: New Topic (Recommended)
+</div>
 
 > When learning a topic from scratch:
 
@@ -43,7 +44,6 @@ I will automatically generate:
 * Glossary
 * Keywords
 
-</div>
 
 <div align=left>
 
