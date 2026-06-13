@@ -1,6 +1,6 @@
 <!-- Aviation-Inspired Technical Banner -->
 <p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.6410a08b-70a4-40f3-b1ce-d0d6bd264241.png" 
+  <img src="https://cdnb.artstation.com/p/assets/images/images/033/370/879/large/carlos-bezerra-astronaut-render-main-pose-2.jpg?1609353099" 
        alt="Aviation-Inspired Technical Banner" 
        width="100%" 
        style="border-radius: 8px;"/>
@@ -10,11 +10,12 @@
 <div>
 
 <h1 align = center> ✈️ Pilot-Seat </h1>
+<h3> Learn deeply. Document clearly. Build confidently.</h3>
+
 </div>
 
 
 
-> Learn deeply. Document clearly. Build confidently.
 
 A structured technical knowledge base designed to transform scattered learning into organized understanding.
 
