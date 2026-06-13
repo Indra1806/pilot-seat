@@ -1,17 +1,17 @@
-name: First Workflow
+# name: First Workflow
 
-on:
-  push:
-    branches:
-      - main
+# on:
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+#     steps:
+#       - name: Checkout code
+#         uses: actions/checkout@v3
 
-      - name: Say Hello
-        run: echo "Hello from GitHub Actions 🚀"
+#       - name: Say Hello
+#         run: echo "Hello from GitHub Actions 🚀"
