@@ -1,9 +1,10 @@
 <div>
 <h1 align=center>Question-Pattern</h1>
-<p align= center>Follow this Question Patterns - special for all Pilots.</p>
+<p align= center>Follow this Question Patterns - special for all Pilots.
+The quality of the output will depend heavily on **how you ask the topic.</p>
+
 </div>
 
-## The quality of the output will depend heavily on **how you ask the topic**.
 
 > You don't need to write long prompts every time. Use one of these patterns.
 
